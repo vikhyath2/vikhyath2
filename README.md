@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://vikhyath2.github.io/vikhyath2/portfolio/" aria-label="Explore Vikhyath's interactive AI engineering profile">
-    <img src="./assets/banner.svg" alt="Vikhyath Vardhan — AI engineering. Animated Research, Build, Review flow." width="100%" />
+    <img src="./assets/banner.svg?v=806ff3c" alt="Vikhyath Vardhan — AI engineering. Animated Research, Build, Review flow with a link to the interactive profile." width="100%" />
   </a>
 </p>
 
