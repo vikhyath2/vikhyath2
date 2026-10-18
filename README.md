@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://vikhyath2.github.io/vikhyath2/portfolio/" aria-label="Explore Vikhyath's interactive AI engineering profile">
+  <a href="https://vikhyath2.github.io/vikhyath2/portfolio/?v=20261017b" aria-label="Explore Vikhyath's interactive AI engineering profile">
     <img src="./assets/banner.svg?v=806ff3c" alt="Vikhyath Vardhan — AI engineering. Animated Research, Build, Review flow with a link to the interactive profile." width="100%" />
   </a>
 </p>
@@ -7,13 +7,13 @@
 <h2 align="center">Research the problem. Build the system. Review the result.</h2>
 
 <p align="center">
-  <a href="https://vikhyath2.github.io/vikhyath2/portfolio/"><strong>✦ Enter the interactive profile ↗</strong></a>
+  <a href="https://vikhyath2.github.io/vikhyath2/portfolio/?v=20261017b"><strong>✦ Enter the interactive profile ↗</strong></a>
   &nbsp; · &nbsp;
   <a href="https://github.com/vikhyath2?tab=repositories">Explore repositories</a>
 </p>
 
 <p align="center">
-  <a href="https://vikhyath2.github.io/vikhyath2/portfolio/">
+  <a href="https://vikhyath2.github.io/vikhyath2/portfolio/?v=20261017b">
     <img src="./assets/workflow.svg" alt="Animated workflow: Research Spark log cases, Build AI tools and incident workflows, Review structured output and regression results." width="100%" />
   </a>
 </p>
